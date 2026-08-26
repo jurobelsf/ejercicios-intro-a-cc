@@ -1,6 +1,6 @@
 # Ejercicios C++
 
-Repositorio con soluciones de los ejercicios de **Introducción a las Ciencias de la Computación** de la Universidad Nacional de Colombia.
+Repositorio con soluciones de los ejercicios de la clase **Introducción a las Ciencias de la Computación** de la Universidad Nacional de Colombia.
 
 Espero que este repositorio pueda servirte de ayuda si estás programando en C++ y quieres ver ejemplos reales y prácticos de cómo resolver problemas. Nada de IA, solo razonamiento paciente.
 
