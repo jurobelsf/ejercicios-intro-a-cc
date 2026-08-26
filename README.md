@@ -1,4 +1,4 @@
-# C++ — Introducción a las Ciencias de la Computación
+# Ejercicios C++
 
 Repositorio con soluciones de los ejercicios de **Introducción a las Ciencias de la Computación** de la Universidad Nacional de Colombia.
 
