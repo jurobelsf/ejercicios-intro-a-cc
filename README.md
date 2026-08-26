@@ -1,19 +1,30 @@
-# Ejercicios de C++
+# C++ — Introducción a las Ciencias de la Computación
 
-Ejercicios básicos de C++ sobre:
+Repositorio con soluciones de los ejercicios de **Introducción a las Ciencias de la Computación** de la Universidad Nacional de Colombia.
 
-- Arreglos y listas
+Espero que este repositorio pueda servirte de ayuda si estás programando en C++ y quieres ver ejemplos reales y prácticos de cómo resolver problemas. Nada de IA, solo razonamiento paciente.
+
+## ¿Qué encontrarás?
+
+Ejercicios sobre:
+
+- Listas y arreglos
 - Apuntadores
-- Memoria dinámica (`new` y `delete[]`)
+- Memoria dinámica
+- Arreglos dinámicos
+- Matrices
 - Funciones
-- Matrices y matrices traspuestas
-- Operaciones con arreglos
-- Triángulo de Pascal
+- Recorridos y búsquedas
+- Operaciones con matrices
+- Lógica y algoritmos básicos
 
-## Guía
+La mayoría de los códigos están comentados por mí, especialmente los ejercicios más difíciles. Los comentarios desmenuzan la solución, resaltan las partes importantes y aclaran confusiones típicas sobre la lógica del ejercicio.
 
-En la carpeta `images` hay una guía mejor explicada de cada ejercicio, donde se muestra exactamente la **entrada** que recibe y la **salida** que debe producir.
+## Guías
 
-Cada imagen corresponde a su ejercicio. Por ejemplo:
+También existe una carpeta llamada `images` donde encontrarás una guía más detallada de cada ejercicio. Allí se muestra explícitamente la **entrada que recibe** y la **salida que debe producir**.
 
-`ej.2.jpeg` → `ejercicio 2.cpp`
+Por ejemplo, si el ejercicio es `ejercicio2.cpp`, su guía estará en:
+
+```text
+images/ej.2.jpeg
