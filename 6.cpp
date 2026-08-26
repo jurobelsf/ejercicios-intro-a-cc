@@ -33,3 +33,24 @@ int main() {
 
     return 0;
 }
+
+
+/*
+
+Veamos cosas interesantes de este código
+
+1. Lo del valor absoluto nos simplificó varias cosas xdxd
+2. **Podemos hacer funciones que reciban como parámetro un array!!, literal ahí lo único fue poner int arr[] como parámetro y sha. Y en java también!!**
+
+**NOTA IMPORTANTE:**
+
+- **En C, no se puede crear una función que retorne un arreglo**
+- **En Java sí**, y lo único que tiene que hacer para eso es poner int[] antes del nombre de la función. Ejemplo:
+
+```java
+public static int[] eliminarRepetidos(int[] array1, int size) {
+```
+
+Y de paso ahí ve cómo hace que la función reciba como parámetro un arreglo
+
+*/
