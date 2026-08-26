@@ -4,6 +4,8 @@ Repositorio con soluciones de los ejercicios de la clase **Introducción a las C
 
 Espero que este repositorio pueda servirte de ayuda si estás programando en C++ y quieres ver ejemplos reales y prácticos de cómo resolver problemas. Nada de IA, solo razonamiento paciente.
 
+Más que un solucionario de un conjunto de ejercicios, para mí es una guía de apuntes rápida para refrescar la memoria sobre particularidades de C++ a la hora de programar cualquier cosa
+
 ## ¿Qué encontrarás?
 
 Ejercicios sobre:
