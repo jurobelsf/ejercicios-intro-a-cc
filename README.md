@@ -7,7 +7,7 @@ Vi esta materia y elaboré la solución de los ejercicios en el segundo semestre
 
 Espero que este repositorio pueda servirte de la misma ayuda si estás programando en C++ y quieres ver algunos ejemplos reales/prácticos sobre cómo codear soluciones en C++. Nada de IA, solo razonamiento paciente.
 
-El código está documentado por mí, donde desmenuzo y explico el código, resaltanto las partes relevantes y aclarando confusiones típicas sobre la lógica de la solución. 
+La mayoría del código viene con comentarios (en particular los ejercicios más difíciles, donde se explica la lógica del ejercicio), donde desmenuzo y explico el código, resaltanto las partes relevantes y aclarando confusiones típicas sobre la lógica de la solución. 
 
 Vale aclarar que hay ejercicios cuyas respuestas se pueden volver más eficientes. No obstante, prefiero dejar las respuestas originales ya que la gracia del código es ser un manual/guía de apuntes rápida de consultar para "refrescar la memoria" de cómo solucionar ciertos problemas en C++; así que se prefiere la simplicidad (en particular cuando aquella simplicidad muestra de forma explícita la lógica detrás de una idea) a la eficiencia.
 
